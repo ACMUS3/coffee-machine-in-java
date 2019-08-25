@@ -32,11 +32,6 @@ public class CoffeeMachine {
             }
 
         }
-      //  coffeeMachine.front();
-    }
-/*    public void front() throws IOException {
-
-        }*/
 
     public void remaining(){
         System.out.println("The coffee machine has:");
